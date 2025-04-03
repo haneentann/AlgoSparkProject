@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Array Sum",
+    "description": "Write a Java function to calculate the sum of elements in an integer array.",
+    "codeTemplate": "public static int sumArray(int[] arr) {\n  // Your code here\n}",
+    "correctAnswer": "public static int sumArray(int[] arr) {\n  int sum = 0;\n  for (int num : arr) {\n    sum += num;\n  }\n  return sum;\n}"
+  },
+  {
+    "title": "String Reverse",
+    "description": "Write a Java function to reverse a given string.",
+    "codeTemplate": "public static String reverseString(String str) {\n  // Your code here\n}",
+    "correctAnswer": "public static String reverseString(String str) {\n  return new StringBuilder(str).reverse().toString();\n}"
+  }
+]

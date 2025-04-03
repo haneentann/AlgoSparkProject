@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80619002636",
+    "project_id": "algosparkproject",
+    "storage_bucket": "algosparkproject.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80619002636:android:97cdf697e501fbc08dc729",
+        "android_client_info": {
+          "package_name": "com.example.algosparkproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3Y10bxD0LoZPWfY06TPhpFqFfYZAvH1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
